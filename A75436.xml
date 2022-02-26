@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the most material objections against the bill for restraining the East-India wrought silks, &amp;c. humbly offered to the consideration of the Lords</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75436</idno>
+            <idno type="STC">Wing A3425B</idno>
+            <idno type="STC">ESTC R18520</idno>
+            <idno type="EEBO-CITATION">99896086</idno>
+            <idno type="PROQUEST">99896086</idno>
+            <idno type="VID">153803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2380:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the most material objections against the bill for restraining the East-India wrought silks, &amp;c. humbly offered to the consideration of the Lords</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>With a docket title on page 4.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Textile industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  East Indies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:153803:1" rendition="simple:additions"/>
+            <head>An ANSWER to the most Material Objections again the Bill for Reſtraining the <hi>Eaſt-India</hi> Wrought Silks, <hi>&amp;c.</hi> Humbly offered to the Conſideration of the Lords.</head>
+            <p>Obj. <hi>THAT Trade is in its Nature free, finds its own Channel, and beſt direct its own Courſe.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> All trading Nations have, and do at this Day put a reſtraint upon Trade according as their Circumſtances require: The <hi>French</hi> have many Years ſince, by <hi>extraordinary Impoſitions,</hi> prohibited all our <hi>Woollen Manufactures,</hi> and by that means have ſet them up in their own Country, to their great Advantage. The <hi>Dutch,</hi> who are little more than Carriers of Goods from one Country to another, yet do often prohibit, and for Inſtance, have by great Impoſitions prohibited our Dyed Woollen Manufactures, by which means they have gained that profitable Imployment. The <hi>Venetians</hi> have prohibited our Cloth: The <hi>Sweeds</hi> and <hi>Danes</hi> the like. The <hi>French</hi> have by ſevere Edicts prohibited all <hi>Indian Silks, Bengalls,</hi> and <hi>Painted Calicoes;</hi> and a Multitude of Inſtances might be given of this Nature. Our own <hi>Statute-Books</hi> are full of them; the <hi>Act</hi> of Navigation, and the <hi>Act</hi> for Preventing the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Wooll have been, and are of infinite Benefit to this Kingdom.</p>
+            <p>Obj. <hi>That the Eaſt India</hi> Trade <hi>is greatly beneficial to</hi> England.</p>
+            <p>
+               <hi>Anſ.</hi> If what the Writers for the <hi>Eaſt-India</hi> Company have aſſerted be true, That Three Parts of Four of the whole imported have been again exported to Foreign Parts, or if what the late <hi>Author</hi> of the Eſſay on the <hi>Eaſt-India Trade</hi> aſſerts be true, That one half has been exported and has brought in 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> more than the prime Coſt in <hi>India,</hi> then this Trade, in that Reſpect, may well be accounted a profitable Trade to this Nation: But this, though often aſſerted, has not been made appear in ſuch manner as a Buſineſs of ſo great a concern to the <hi>Eaſt-India</hi> Company ought, or might have been; and we have great Reaſon to believe that no ſuch Quantities are, or ever were exported; But ſuppoſing that great Quantities were exported, this Bill does not extend to hinder that Trade.</p>
+            <p>Obj. <hi>That it muſt be granted that the</hi> Eaſt-India-Trade <hi>in General is prejudicial to</hi> Europe, <hi>and if all by common Conſent would agree to deal no more with them, it would ſave the Expence of a great Treaſure; but ſince that cannot be done, it would be</hi> Egregious Folly <hi>in us to quit it.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Reaſon why the <hi>Eaſt-India</hi> Trade is prejudicial, is, becauſe we draw from thence nothing of ſolid uſe, <hi>Materials to ſupport Luxury, Periſhable Commodities,</hi> and ſend thither <hi>Gold and Silver,</hi> which is there buried and never returns, and the Burden of this bears hard only on the Countries which conſume them, as the Author of the Eſſay has very well obſerved, and from thence inferr'd, That the <hi>French</hi> did wiſely to prohibit. Now if this be true, as undoubtedly it is, there cannot be greater or more <hi>cogent Argu<g ref="char:EOLhyphen"/>ments</hi> for the paſſing this Bill, which is not to deſtroy the whole Trade, but only part of that which their own Advocate acknowledge is very hard upon us, who are the Conſumers.</p>
+            <p>Obj. <hi>The Bill now propoſed will be abſolutely deſtructive to the</hi> Eaſt-India <hi>Trade, and ſhould we quit the Hold we have in</hi> India, <hi>the</hi> Dutch <hi>will undoubtedly ingroſe the whole, which will be of dangerous Conſequence.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> That what by this Bill is to be reſtrained cannot be computed to above one half of the home Conſumption, and the whole is accounted, by the Author of the Eſſay, but one half of the Trade; ſo that at moſt it will be leſſen'd but one Fourth Part, which by the Addition that may be made by bringing home <hi>Raw-Silks, Cotton Yarn, &amp;c.</hi> may in a great meaſure be made good; And why Three Parts and more ſhould not be carry'd on without the remainder, is very hard for us to imagine. The <hi>French</hi> have prohibited all <hi>Wrought Silks, Bengalls and Printed Callicoes;</hi> and yet they carry on their <hi>Eaſt-India</hi> Trade: and in caſe the <hi>Eaſt-India</hi> Company, either through Poverty or any other Reaſons, ſhould not be able or willing to carry it on, there are Merchants enough in <hi>England</hi> to take it up: But if we cannot trade there without the Conſent of the <hi>Dutch,</hi> who are now very pow<g ref="char:EOLhyphen"/>erful and can bring together 40 ſtrong Frigats (as the <hi>Author</hi> of the Eſſay tells us) which is much more than we are able or can pretend to do, they may as eaſily beat us out of the whole as of what will be ſtill left. Therefore the beſt way as we humbly conceive to ſecure us from thoſe Fears, is, to keep our <hi>Treaſure</hi> to imploy our own people, and increaſe our ſtrength at home.</p>
+            <p>Obj. <hi>The Company ſend great quantities of our</hi> Manufactures, <hi>and have in return</hi> Wrought Silks.</p>
+            <p>
+               <hi>Anſ.</hi> The Company are obliged to ſend 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of our <hi>Manufactures,</hi> but have not done it; for by Accounts taken out of the Cuſtom-houſe Books, there cannot be found 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth in Two years laſt paſt, and not 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth laſt year, and how much of this has been really Exported and ſent to <hi>India</hi> we know not, but have great rea<g ref="char:EOLhyphen"/>ſon to believe that great Quantities were either not ſhipt off, or not ſent thither, but to <hi>Spain</hi> or other Parts where they take in <hi>Bullion;</hi> for this is moſt certain that the <hi>Indians</hi> wear none, or ſo little of our Manufactures as is not worth mentioning: 'Tis true that ſince the Company have been obliged they have ſent ſome Cloth, which they have ſold in the Gulph of <hi>Perſia,</hi> and brought in returns <hi>Raw Silk,</hi> which have been wrought up by
+<pb n="2" facs="tcp:153803:2"/>the <hi>Indians</hi> in the <hi>Bay</hi> of <hi>Bengall</hi> into ſilks commonly called <hi>Perſian Taffeties,</hi> and the like, and from thence brought to <hi>England,</hi> whereas formerly the <hi>Turkey Merchants</hi> uſed to ſupply the <hi>Perſians</hi> with cloth, and brought in Return <hi>Raw Silk,</hi> and might do ſo again if the Trade were turned into its old Channel.</p>
+            <p>Obj. <hi>That no Country Manufactures are made ſo dear as the</hi> Engliſh, <hi>and if we would have a Trade we muſt make our Manufactures cheaper.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To this we think we cannot give a better Anſwer than what Sir <hi>Joſ. Child</hi> gave in the like Caſe, which we find in the Preface of his Book called <hi>A Diſcourſe on Trade,</hi> his Words are theſe, <hi>I affirm and can prove be's miſtaken in Fact; for the</hi> Dutch, <hi>with whom we principal<g ref="char:EOLhyphen"/>ly contend in Trade, give generally more Wages for all their Manufactures, by at leaſt Two Pence in the Shilling, than the</hi> Engliſh. And adds farther, <hi>That whereſoever Wages are high univer<g ref="char:EOLhyphen"/>ſally throughout the whole World, it is an infallible Evidence of the Riches of that Country: and wherever Wages for Labour runs low, its a Proof of the Poverty of that Place. That it is multi<g ref="char:EOLhyphen"/>tude of People and good Laws, ſuch as cauſe an increaſe of People, that principally enrich any Coun<g ref="char:EOLhyphen"/>try: And if we retrench (by Law) the Labour of our People, we drive them from us to other Coun<g ref="char:EOLhyphen"/>tries that give better Rates, and ſo the</hi> Dutch <hi>have dreined us of our</hi> Seamen <hi>and</hi> Woollen Ma<g ref="char:EOLhyphen"/>nufacturers: <hi>And we the the</hi> French <hi>of their</hi> Artificers <hi>and</hi> Silk Manufacturers. And in Pag. 175. diſcourſing of the ways of enlarging our Trade, among many others, he gives this Advice, <hi>That it's our Intereſt by Example, and otherwiſe not diſtaſtful, above all kinds of Commodities to pre<g ref="char:EOLhyphen"/>vent as much as may be the Importation of</hi> Foreign Manufactures, <hi>and to encourage thoſe Trades moſt that vend moſt of our Manufactures, and ſupply us with Materials to be further Manufactured.</hi>
+            </p>
+            <p>Obj. <hi>That we want Hands, not Manufactures in</hi> England, <hi>and Laws to compel the Poor to work and therefore want more an Act to ſet up publick Work houſes to force them that are not willing.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> as the Caſe now ſlands, we have Hands more than ſufficient to carry on the Manufactures which the <hi>Eaſt-India</hi> Trade leaves us; but if this Bill paſs we have great Reaſon to believe that in a very ſhort time, Imployment will be found for a great number of thoſe now out of work, and for ſome of the 1200000 which the Author of the Eſſay ſays, he thinks there are now receiving Alms in this Kingdom. It were to be wiſhed that there were Publick Workhouſes for the Imployment of the unwilling Poor; but before they can be imploy'd in ſuch Places it will be neceſſary to know how the Manufactures can be diſpoſed: And with Submiſſion, we humbly conceive there can be no better way found for their vent than by reſtraining the Expence of theſe Foreign Commodities, and that this will be greatly for the Intereſt of this Kingdom. To confirm us in this Opinion, we have the Judgment of Sir <hi>Joſ. Child,</hi> that great Champion for the <hi>India</hi> Cauſe, who in the Preface of his Book of Trade ſays, <hi>That the Expence of Foreign Commodities, eſpecially Foreign Manufactures, is the worſt Expence a Nation can be inclinable to, and therefore ought to be prevent<g ref="char:EOLhyphen"/>ed as much as poſſible.</hi>
+            </p>
+            <p>Obj. <hi>That it's the Intereſt of this Nation to have our own Wooll cheap, and cheaply manufactured, whereby we may be enabled to under-ſell all Nations, and diſcourage all People to ſet it up.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To do this we muſt bring down the Price of Wool and Workmanſhip conſiderably, and then Proviſions muſt fall in Proportion to anſwer the Wages, or elſe the Poor cannot purchaſe them; and if ſo, <hi>Rents</hi> muſt abate, and when this is done, other Nations who contend with us in our Manufactures muſt do likewiſe, and after all this, the <hi>Indian</hi> that works for a Peny a Day, will be able to underſell us all; ſo that after all our reducing, we are not like to underſell all Nations, unleſs we ſhould ſend our Wooll to <hi>India</hi> to be manufactur'd.</p>
+            <p>Obj. <hi>That the home Conſumption is no Advantage to the Nation.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If a <hi>Penny</hi> ſaved be the ſureſt <hi>Penny</hi> got, then the ſaving our Pence by the Home Con<g ref="char:EOLhyphen"/>ſumption of our own, inſtead of expending them for <hi>Foreign Manufactures,</hi> muſt certainly be greatly for the Advantage of this Kingdom.</p>
+            <p>Obj. <hi>It's the Intereſt of this Nation to wear</hi> Eaſt India <hi>Goods?, which are very Cheap, and to Export our own which are much dearer.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If we could find a Forreign Market for our own Manufactures, this Objection would be of force, but (with ſubmiſſion we ſay) that this is impoſſible; for it is very well known, that all <hi>Forreign Markets</hi> have been plentifully ſupplyed with as much of our Wollen Manufactures as could be vended, and generally over-ſtocked; and yet notwithſtanding our Exporters do not carry off above one third part, (as the Perſons concern'd in the <hi>Aul<g ref="char:EOLhyphen"/>nage,</hi> who beſt know how much is made, have oft-times aſſerted) and in caſe a ſtop be not put to the <hi>Eaſt India</hi> Trade, our Export muſt be leſs; for by reaſon of the great ware of <hi>Muſlings</hi> and <hi>Callicoes,</hi> we have already loſt the greateſt part of our Trade for Wollen Cloaths, <hi>&amp;c.</hi> to <hi>Germany, Sileſia, &amp;c.</hi> from whence we had formerly great quantities of <hi>Linnens,</hi> but when we could no longer take their Linnens, they were forced to ſet up a Manufacture of Wollen, by which we have almoſt wholly loſt that profitable Trade. We have now a Trade with <hi>Spain, Italy,</hi> and <hi>Turky,</hi> from whence we Import great quantities of <hi>Wool, Raw Silk,</hi> and <hi>Grogern-yarn,</hi> but if we muſt wear <hi>Eaſt India</hi> Manufactures, we cannot uſe their Silk; and if ſo, it's reaſonable to conclude, that they muſt ſhortly follow the exam<g ref="char:EOLhyphen"/>ple of the <hi>Germans.</hi> As to our <hi>Plantations</hi> and <hi>Ireland,</hi> to which we ſend great quantities of our Manufactures, if the <hi>Eaſt India Silks, &amp;c.</hi> are the Mode here, they will be ſo there, the orders that are ſent from thence, being to ſend over ſuch Manufactures, as are moſt Faſhi<g ref="char:EOLhyphen"/>onable
+<pb n="3" facs="tcp:153803:2"/>in <hi>England;</hi> ſo that inſtead of a greater Exportation, we ſhall almoſt wholly loſe what we now have. But in caſe it were poſſible to vend more, we could make much grea<g ref="char:EOLhyphen"/>ter quantities, as we did laſt year, when there was a conſiderable demand for them.</p>
+            <p>Obj. <hi>That if we do not uſe theſe</hi> India <hi>Goods, they will be carried to other places, where we now ſend our Manufactures, and be there uſed inſtead of them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If this be true, then the <hi>East-India</hi> Trade will not receive ſo great Prejudice as is pretended; but this is fallacious, for the Exporters always ſend to furniſh all foreign Markets with what they want; and we are very ſenſible, that they have and will be ſuf<g ref="char:EOLhyphen"/>ficiently ſupplied with theſe <hi>India</hi> Manufactures, which will very much obſtruct our Trade, and therefore we humbly conceive its highly Reaſonable this Bill ſhould paſs, that ſeeing the Miſchief they will do us in foreign Markets cannot be prevented, we may in ſome meaſure be helpt, by preventing our falling into the ſame Miſchief at home.</p>
+            <p>Obj. <hi>That theſe</hi> India <hi>Manufactures do not much hinder the Conſumption of our own Manufa<g ref="char:EOLhyphen"/>ctures, but chiefly thoſe of</hi> Italy, France, <hi>and</hi> Holland.</p>
+            <p>
+               <hi>Anſw.</hi> They do directly hinder the Conſumption of vaſt Quantities of our own Ma<g ref="char:EOLhyphen"/>nufactures, as the <hi>Norwich, London, Canterbury</hi> Antherines, and other ſorts of Stuffs; as alſo the Manufactures made in <hi>Briſtol, Ketering, Sudbury, Stowmarket, Kendal,</hi> and divers other places in this Kingdom; and they do and will in a great Meaſure, deſtroy all our <hi>Silk Manufactures,</hi> which of late are brought to ſuch perfection, as <hi>better Silks</hi> are not made in any part of the World, and are cheaper to us than any can come from the fore-menti<g ref="char:EOLhyphen"/>oned Countries, and have almoſt wholly beat them out of uſe. So that of late Years there has been no conſiderable Quantities Imported, except <hi>black Luteſtrings, Alamodes,</hi> and <hi>Velvets,</hi> for which Uſe the <hi>India Silks</hi> will not ſerve; ſo that the <hi>India</hi> Manufactures are directly oppoſite and deſtructive to our own.</p>
+            <p>Obj. <hi>That Silk is a Manufacture of foreign Extract, and if the Wearing of Silk could be Abo<g ref="char:EOLhyphen"/>liſhed, is would be Beneficial to the Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That the Aboliſhing of all foreign wrought Silks, that are the Returns of our Money, would undoubtedly be Beneficial to the <hi>Kingdom;</hi> and it is that we now only Contend for. But we do aſſert, and plainly demonſtrate, That the wearing of Silks, which are Manufactured here of ſuch Raw Silk as are the Returns of our Woollen, and other Manufactures Exported (as the <hi>Italian</hi> and <hi>Turkey</hi> Silks are) is much more Beneficial to this Kingdom, then if we wear them not, for by this means we imploy double the number of People we ſhould do, if we were Clad in our own Manufactures.</p>
+            <p>Obj. <hi>That if we take not theſe Goods, the</hi> Indians <hi>will let us have no</hi> Salt-petre, Muſlins, White Calicoes, Pepper, Drugs, Raw Silks, <hi>and other Goods we want.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is ſuch an Objection as ſcarce ever was made before by Mankind; 'tis juſt as if we ſhould ſay, we will not let the <hi>Venetians</hi> and other Nations we Trade with, have our <hi>Lead, Tynn,</hi> &amp;c. becauſe they will not take our Cloth. The <hi>French</hi> have Prohibited all their <hi>Silks</hi> and <hi>Painted Calicoes</hi> above ten Years paſt, yet have ever ſince Traded with the <hi>Indians</hi> for theſe Commodities, and we believe never yet wanted <hi>Salt-petre,</hi> &amp;c. and why they ſhould refuſe us theſe Goods is hard to imagine.</p>
+            <p>Obj. <hi>If this Bill paſs, it will be to the Advantage of the</hi> Scotch <hi>and</hi> Dutch, <hi>who will bring in theſe</hi> India <hi>Goods among us at a much dearer Rate.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> One would think in common Reaſon, there cannot be a more effectual Courſe taken to hinder that, than by Prohibiting the wearing of them: For if they may be free<g ref="char:EOLhyphen"/>ly worn, the <hi>Scotch</hi> and <hi>Dutch</hi> will have a great Advantage, becauſe they pay little or no Duty to what our <hi>East-India</hi> Merchants muſt pay; and the very hopes, that the Perſons who were concerned in promoting the <hi>Scotch</hi> Company, had of vending the Wrought Manufactures in <hi>England,</hi> was, as we have good Reaſons to believe, one great cauſe for the ſetting-up that Trade. For this is certain, that ſome of the moſt <hi>zealous Promoters</hi> of that Company, are the <hi>greatest Sticklers</hi> againſt this Bill.</p>
+            <p>Obj. <hi>That the Paſſing this Bill will diſcourage Navigation.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is a very ſtrange Objection, For one Ship of 500 Tons Freighted with theſe Goods will bring in above 1,000,000, <abbr>
+                  <hi>l.</hi>
+               </abbr> worth, at but 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> 
+               <hi>per pound,</hi> which is a moderate Value; many of theſe Silks being worth 3 and 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per pound,</hi> ſo that if this ſingle Freight were worn here, it will ruine above twenty times as much Shipping, which is employed in the Coaſting Trade, to furniſh the <hi>Engliſh Manufacturers,</hi> and their dependance with <hi>Coles, Corn, Butter, Cheeſe,</hi> and other Neceſſaries, as is eaſie to be more fully demonſtrated.</p>
+            <p>Obj. <hi>If there be a multitude of Hands want Work, the Herring Fiſhery would employ them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Men, Women, and Children, that are employed in the <hi>Woollen</hi> and <hi>Silk</hi> Ma<g ref="char:EOLhyphen"/>nufactures, are very unfit to catch Fiſh: But ſince it is objected, That if this Bill paſs it will diſcourage <hi>Navigation,</hi> here's a proper <hi>Salvo</hi> for that <hi>Sore,</hi> let the <hi>Merchants</hi> employ their Stock, and the <hi>Seamen</hi> their time, to catch theſe Herrings, and then we are very ſure they would be much better imployed for the <hi>Advantage</hi> of the Nation than they now are.</p>
+            <p>Obj. <hi>That if the</hi> Eaſt India <hi>Manufactures did greatly prejudice our own, it is not adviſeable they ſhould be Prohibited in this time of War, becauſe of the Companies</hi> great Loſſes <hi>and Misfortunes, and their want of Money.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That the Company have met with great Loſſes muſt needs be grant<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and that
+<pb n="4" facs="tcp:153803:3"/>ſo great a Treaſure fell into the Enemies hands, has been of very <hi>Ill Conſequence</hi> to the Nati<g ref="char:EOLhyphen"/>on, and none knows but ſuch Misfortunes may again attend them, and therefore the leſs Trade of this kind in ſo dangerous a time, the better for the Nation; If they want Money ſo do the Engliſh Manufacturers, and whether the Money we now have to Trade with ſhall be ſent out to purchaſe Goods fully Manufactured for our own Conſumption, which may fall into the Enemies Hands, or imployed to carry on our own Manufactures, we think, with humble Submiſſion, is no hard queſtion to be reſolved; for nothing is more vi<g ref="char:EOLhyphen"/>ſible, than that the <hi>Eaſt India</hi> Manufactures that have been lately Imported, takes away great quantities of our Money, which would otherwiſe be imployed in the purchaſing of our own <hi>Silks and Stuffs,</hi> and thereby give Imployment and Incouragement to many Thouſand Families, who are now in a ſtarving condition.</p>
+            <p>Obj. <hi>The Clauſe in the Bill which lays the Proof on the Retailers is very unreaſonable.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Without this the whole Bill will be rendred ineffectual, and therefore the like Clauſes has been incerted in all Acts of this Nature (as in our Prohibition of <hi>French Silks,</hi> &amp;c.)</p>
+            <p>Obj. <hi>That if this Bill paſs, it will deſtroy the</hi> Credit <hi>of the</hi> Nation, <hi>and greatly Injure thoſe who have lent Money upon the</hi> Cuſtoms <hi>of the</hi> Eaſt India <hi>Goods.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The <hi>Cuſtoms</hi> that are given for the Security of Moneys lent by the perſons com<g ref="char:EOLhyphen"/>plaining (which for the moſt part are <hi>Linnen Drapers</hi> and <hi>Eaſt India</hi> men) conſiſts not on<g ref="char:EOLhyphen"/>ly of <hi>Eaſt India</hi> Goods, but alſo of <hi>Wines, Vinegar, Brandy, Tobacco,</hi> all <hi>Linnens, Wood, Iron, Oyl, Flax, Hemp, Paper,</hi> and abundance of other Commodities, too numerous to be here in<g ref="char:EOLhyphen"/>certed; and the whole <hi>Eaſt India</hi> Trade has hitherto raiſed but a very inconſiderable part of the ſaid <hi>Cuſtoms,</hi> yet the Security has been well anſwered. Now in caſe the <hi>Cuſtoms</hi> ſhould be increaſed by a greater quantity of <hi>Eaſt India</hi> wrought Silks, which muſt be worn here, they will deſtroy our own Manufactures, and thereby Impoveriſh not onely our Ma<g ref="char:EOLhyphen"/>nufacturers, and their dependants, but the <hi>Nation in general,</hi> by which means they will be diſabled from conſuming the <hi>Wines, Brandy, Tobacco,</hi> and other Merchandize, which will, (as we have great reaſon to believe) much more weaken the ſame Security, then this Bill can do; And not only ſo, but much leſſen the Exciſe of <hi>Beer</hi> and <hi>Ale,</hi> and other the <hi>Reve<g ref="char:EOLhyphen"/>nues</hi> and <hi>Taxes</hi> which are given to ſupport a <hi>Juſt</hi> and <hi>Neceſſary War,</hi> for the preſervation of our <hi>Lives, Liberties,</hi> and <hi>Properties.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>AN ANSWER to the moſt <hi>Material Objections</hi> againſt the BILL For Reſtraining <hi>East-India</hi> Wrought Silk, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
